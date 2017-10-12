@@ -1,0 +1,31 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Server for chat-test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tvde1/chat-test.git"
+  },
+  "keywords": [
+    "chat",
+    "react",
+    "socketio"
+  ],
+  "author": "Tvde1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tvde1/chat-test/issues"
+  },
+  "homepage": "https://github.com/Tvde1/chat-test#readme",
+  "dependencies": {
+      "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}
