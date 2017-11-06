@@ -1,4 +1,4 @@
-const io  = require('socket.io')(process.env.PORT || 8000);
+const io  = require('socket.io')(8000);
 // const app = require('http').createServer(handler)
 
 // io.listen(8000);
